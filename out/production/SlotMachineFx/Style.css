@@ -1,0 +1,28 @@
+.root{
+    -fx-background-color:#b3e0ff;
+}
+
+.button {
+	-fx-background-color:#00FFFF;
+	-fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-background-radius:10px;
+    
+}
+.button:hover {
+	-fx-background-color:#00ff00;
+	-fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-background-radius: 40;
+}
+
+#spin{
+	-fx-background-color:#FFD700;
+}
+#spin:hover{
+	-fx-background-color:#F00;
+}
+
+.label{
+    -fx-font-weight: bold;
+}
